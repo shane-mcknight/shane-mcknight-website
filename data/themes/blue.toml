@@ -7,9 +7,9 @@ name = "blue"
 
   # Menu
   menu_primary = "#F2F2F2"
-  menu_text = "#C8D8E4"
-  menu_text_active = "#FFFFFF"
-  menu_title = "#52AB98"
+  menu_text = "#2B6777"
+  menu_text_active = "#C8D8E4"
+  menu_title = "#2B6777"
 
   # Home sections
   home_section_odd = "#C8D8F2"
