@@ -12,8 +12,8 @@ name = "blue"
   menu_title = "#52AB98"
 
   # Home sections
-  home_section_odd = "#FFFFFF"
-  home_section_even = "#FFFFFF"
+  home_section_odd = "#C8D8F2"
+  home_section_even = "#2B6777"
 
 [dark]
   # Primary
