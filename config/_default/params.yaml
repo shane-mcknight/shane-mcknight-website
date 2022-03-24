@@ -10,6 +10,7 @@ appearance:
   theme_night: blue
   font: minimal
   font_size: L
+  font_color: "#FFFFFF"
 
 # SEO
 
