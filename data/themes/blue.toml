@@ -3,17 +3,17 @@ name = "blue"
 
 [light]
   # Primary
-  primary = "#F2F2F2"
+  primary = "#C8D8E4"
 
   # Menu
   menu_primary = "#F2F2F2"
   menu_text = "#2B6777"
-  menu_text_active = "#C8D8E4"
+  menu_text_active = "#52AB98"
   menu_title = "#2B6777"
 
   # Home sections
   home_section_odd = "#C8D8F2"
-  home_section_even = "#2B6777"
+  home_section_even = "#F2F2F2"
 
 [dark]
   # Primary
