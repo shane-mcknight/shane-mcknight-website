@@ -1,0 +1,23 @@
+# Theme metadata
+name = "blue"
+
+[light]
+  # Primary
+  primary = "#F2F2F2"
+
+  # Menu
+  menu_primary = "#F2F2F2"
+  menu_text = "#C8D8E4"
+  menu_text_active = "#FFFFFF"
+  menu_title = "#52AB98"
+
+  # Home sections
+  home_section_odd = "#FFFFFF"
+  home_section_even = "#52AB98"
+
+[dark]
+  # Primary
+  primary = "#bbdefb"
+
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
