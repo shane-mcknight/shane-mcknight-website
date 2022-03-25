@@ -1,11 +1,9 @@
 ---
-#Color
-body {
-  color: 'CB333B;
-}
-
 # Display name
 title: Nelson Bighetti
+title {
+  color: 'CB333B;
+}
 
 # Is this the primary user of the site?
 superuser: true
