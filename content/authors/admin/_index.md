@@ -1,4 +1,9 @@
 ---
+#Color
+body {
+  color: 'CB333B;
+}
+
 # Display name
 title: Nelson Bighetti
 
